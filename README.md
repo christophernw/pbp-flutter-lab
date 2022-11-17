@@ -50,7 +50,7 @@ Tahapan yang saya lakukan dalam mengimplementasikan checklist:
 8. Menambahkan parameter `textDirection` dengan nilai `TextDirection.rtl` untuk *reverse* urutan tampilan tombol, agar ketika tombol *decrement* hilang, tombol *increment* tidak berubah tempat.
 9. Melakukan `add`, `commit`, dan `push` ke GitHub.
 
-# Penjelasan Tugas 8 PBP
+# Tugas 8 PBP
 
 ## Identitas
 Nama    : Christopher Nathanael Wijaya<br>
